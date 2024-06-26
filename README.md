@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SquirrelSix
-- 👀 I’m interested in Game Development and Entering the AR / VR Space eventually
-- 🌱 I’m currently learning Gradute Level Systems Engineering Academically, Unity and Unity3D on the side
-- 💞️ I’m looking to collaborate on blockchain & NFT based gaming experiences
+- 👀 I’m interested in developing a wide range of automated ai tasking tools and cybersecurity solutions.
+- 🌱 Gradute Level Systems Engineer, Aspiring Cybersecurity Engineer
 - 📫 How to reach me: squirrelteam66@gmail.com 
 
 <!---
